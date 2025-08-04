@@ -8,14 +8,9 @@
 
 ##  Estadísticas GitHub
 
-<div align="center">
-  <p><strong> Conteo de visitas</strong></p>
-  <img src="https://profile-counter.glitch.me/Chelo2025/count.svg" alt="Contador de visitas"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelo2025&theme=tokyonight&hide_border=false&layout=compact" alt="Lenguajes más usados"/>
-  <br/><br/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelo2025&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Gráfico de actividad"/>
 </div>
 
