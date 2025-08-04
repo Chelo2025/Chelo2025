@@ -1,28 +1,25 @@
-# Hola soy Marcelo Martinez
+#  Hola, soy Marcelo Martinez
 
 📍 Buenos Aires, Argentina  
-📧 marcelocm@protonmail.com  
-🔗 [LinkedIn - martinezm01](https://www.linkedin.com/in/martinezm01/)   
+🔗 [LinkedIn - martinezm01](https://www.linkedin.com/in/martinezm01/)  
 🍕 [Colaboración - Almuerzo](https://buymeacoffee.com/martinezmakp/)
 
 ---
 
-## Estadísticas GitHub
+##  Estadísticas GitHub
 
 <div align="center">
-  <p><strong>📈 Visitor Count</strong></p>
-  <img src="https://profile-counter.glitch.me/Chelo2025/count.svg" alt="Visitor Count"/>
-  <br/>
+  <p><strong> Conteo de visitas</strong></p>
+  <img src="https://profile-counter.glitch.me/Chelo2025/count.svg" alt="Contador de visitas"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelo2025&theme=tokyonight&hide_border=false&layout=compact" alt="Lenguajes más usados"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelo2025&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Gráfico de actividad"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelo2025&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelo2025&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
+---
 
 ##  Objetivo Profesional
 
@@ -58,13 +55,13 @@ Aportar soluciones tecnológicas seguras y eficientes en entornos profesionales 
 ##  Formación Académica
 
 - **Diplomado en Redes Linux, Ciberseguridad y Hacking Ético**  
-  Universidad Tecnológica Nacional – Facultad Regional Delta (En curso, 2025)
+  Universidad Tecnológica Nacional – Facultad Regional Delta *(En curso, 2025)*
 
 - **Licenciatura en Tecnologías Digitales**  
-  Universidad de la Ciudad de Buenos Aires (En curso, desde 2023)
+  Universidad de la Ciudad de Buenos Aires *(En curso, desde 2023)*
 
 - **Técnico Superior en Redes Informáticas**  
-  Instituto Técnico Superior – Teclab (Egresado 2023)
+  Instituto Técnico Superior – Teclab *(Egresado 2023)*
 
 ---
 
@@ -81,4 +78,4 @@ Aportar soluciones tecnológicas seguras y eficientes en entornos profesionales 
 
 ---
 
-> Siempre en búsqueda de nuevos desafíos en el mundo de la tecnología, seguridad informática y análisis de datos.
+> 🚀 Siempre en búsqueda de nuevos desafíos en el mundo de la tecnología, seguridad informática y análisis de datos.
