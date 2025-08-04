@@ -2,10 +2,27 @@
 
 📍 Buenos Aires, Argentina  
 📧 marcelocm@protonmail.com  
-🔗 [LinkedIn - martinezm01](https://www.linkedin.com/in/martinezm01/)
+🔗 [LinkedIn - martinezm01](https://www.linkedin.com/in/martinezm01/)   
 🍕 [Colaboración - Almuerzo](https://buymeacoffee.com/martinezmakp/)
 
 ---
+
+## Estadísticas GitHub
+
+<div align="center">
+  <p><strong>📈 Visitor Count</strong></p>
+  <img src="https://profile-counter.glitch.me/Chelo2025/count.svg" alt="Visitor Count"/>
+  <br/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chelo2025&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelo2025&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chelo2025&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
 
 ##  Objetivo Profesional
 
