@@ -48,9 +48,6 @@ Aportar soluciones tecnológicas seguras y eficientes en entornos profesionales 
 - **Técnico Superior en Redes Informáticas**  
   Instituto Técnico Superior – Teclab (Egresado 2023)
 
-- **Técnico Superior en Telecomunicaciones**  
-  Escuela de Suboficiales de la Fuerza Aérea (Egresado 2017)
-
 ---
 
 ##  Habilidades Técnicas
